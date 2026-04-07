@@ -39,8 +39,7 @@ var products = [
         description: "Tender marinated beef grilled to perfection with onions and scallions",
         price: 3200,
         category: "main",
-        // IMAGE: Add your image as Assets/bulgogi.jpg
-        image: "../Assets/bulgogi.jpg",
+        image: "../Assets/Bulgogi.jpg",
         popular: true
     },
     {
